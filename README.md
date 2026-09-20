@@ -1,6 +1,6 @@
-# Meilleur Releases
+# Meilleur Commander Releases
 
-Public distribution-only repository for immutable Meilleur Commander release artifacts.
+Public distribution-only repository for immutable Meilleur Commander Gateway and native-client release artifacts.
 
 ## Scope
 
